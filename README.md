@@ -3,3 +3,6 @@
 ## plugins
 ### less
 - npm install less -D
+### vue-router
+- npm install vue-router -S
+- Hash模式
