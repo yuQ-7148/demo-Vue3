@@ -8,3 +8,6 @@
 - Hash模式
 ### vuex
 - npm install vuex -S
+### element plus
+- npm install element-plus -S
+- npm install unplugin-vue-components unplugin-auto-import -D
