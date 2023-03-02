@@ -6,3 +6,5 @@
 ### vue-router
 - npm install vue-router -S
 - Hash模式
+### vuex
+- npm install vuex -S
