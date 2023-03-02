@@ -1,4 +1,4 @@
-# Vue 3 + Vite
+# Vue 3 + Vite 模板
 - npm run dev
 ## plugins
 ### less
