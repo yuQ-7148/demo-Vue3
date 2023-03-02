@@ -1,7 +1,7 @@
 import { createApp } from 'vue'
 import App from './App.vue'
 //导入
-// import './style.css'
+import './assets/css/global.css'
 import router from './router/index.js'
 import { createStore } from 'vuex'
 
